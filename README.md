@@ -34,3 +34,9 @@ https://szadiart.itch.io/pixel-fantasy-caves
 https://gandalfhardcore.itch.io/2d-pixel-art-male-and-female-character
 https://maaot.itch.io/2d-browncave-assets
 https://admurin.itch.io/free-chest-animations
+
+Krita (бесплатная альтернатива Photoshop)
+
+GIMP (бесплатно)
+
+Piskel (онлайн, просто и быстро)
